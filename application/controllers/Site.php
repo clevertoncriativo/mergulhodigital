@@ -61,8 +61,8 @@ class Site extends CI_Controller {
 
                 $this->email->initialize($config);
 
-                $this->email->from('comercial@mergulho.digital', $name);
-                $this->email->to('comercial@mergulho.digital');
+                $this->email->from('comercial@agenciamergulhodigital.com.br', $name);
+                $this->email->to('comercial@agenciamergulhodigital.com.br');
                 $this->email->message('Whatsapp: ' . $whatsapp . '<br> Email: ' . $email . '<br> Mensagem: ' . $message);
                 $this->email->subject('Enviado do formulário de contato');
 

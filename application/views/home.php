@@ -6,7 +6,7 @@
 
     <div class="caption">
 
-      <h1>Uma agência digital de desenvolvimento web e expertise na plataforma linxcommerce</h1>
+      <h1>Uma agência digital de desenvolvimento web e expertise em diversas plataformnas de e-commerce</h1>
   					
     </div>
   </div>
@@ -33,6 +33,9 @@
         <div class="col-lg-3 col-md-6"> <img class="img-fluid d-block" src="<?php echo base_url('assets/imgs/clients/c-3.png')?>"> </div>
         <div class="col-lg-3 col-md-6"> <img class="img-fluid d-block" src="<?php echo base_url('assets/imgs/clients/c-4.png')?>"> </div>
         <div class="col-lg-3 col-md-6"> <img class="img-fluid d-block" src="<?php echo base_url('assets/imgs/clients/c-5.png')?>"> </div>
+        <div class="col-lg-3 col-md-6"> <img class="img-fluid d-block" src="<?php echo base_url('assets/imgs/clients/c-6.png')?>"> </div>
+        <div class="col-lg-3 col-md-6"> <img class="img-fluid d-block" src="<?php echo base_url('assets/imgs/clients/c-7.png')?>"> </div>
+        <div class="col-lg-3 col-md-6"> <img class="img-fluid d-block" src="<?php echo base_url('assets/imgs/clients/c-8.png')?>"> </div>
       </div>
     </div>
   </div>
